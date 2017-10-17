@@ -8,7 +8,7 @@
   </p>
 </p>
 
-![Mockup](http://dist/img/Mockup.png)
+![Mockup](https://raw.githubusercontent.com/citizenlabsgr/website/master/dist/img/Mockup.png)
 [Site Mockup](https://sketch.cloud/s/4aVYA)
 
 <br>
