@@ -15,6 +15,11 @@ Check out a list of things to help with:
 
 [![Waffle.io - Issues in progress](https://badge.waffle.io/citizenlabsgr/website.png?label=in%20progress&title=In%20Progress)](http://waffle.io/citizenlabsgr/website)
 
+## Content Sources
+
+- Current [Citizen Labs website](https://citizenlabs.org)
+- [Citizen Labs brigadehub](https://hub.citizenlabs.org)
+- [Citizen Labs on Facebook](https://www.facebook.com/citizenlabs)
 
 ## Contributing
 
