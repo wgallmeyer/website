@@ -14,6 +14,7 @@
 <br>
 
 ## Quick start
+[![Waffle.io - Issues in progress](https://badge.waffle.io/citizenlabsgr/website.png?label=in%20progress&title=In%20Progress)](http://waffle.io/citizenlabsgr/website)
 
 Check out a list of things to help with:
 
